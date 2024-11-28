@@ -144,8 +144,6 @@ python main.py
 2. **Track the Object**:  
    ![Object Tracking](images/tracking_demo.gif)
 
-*(Replace these placeholders with your actual images or GIFs)*
-
 ---
 
 ## ⚙️ **Customization**
